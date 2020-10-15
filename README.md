@@ -1,3 +1,4 @@
+# Autobanker  
 Maya script to create a control with banking attributes based on geometry's vertices. [Watch a video explaining node use](https://youtu.be/k9aUU8taqxo), or read below.  
 [![VIDEO](https://media.giphy.com/media/pxokOz05QhoT9er2ui/giphy.gif)](https://youtu.be/k9aUU8taqxo "Autobanker")
 
